@@ -1,0 +1,101 @@
+body{
+    background-color: #2fbe2a73;
+}
+
+h1,h2{
+    color: rgb(210, 255, 190);
+    .titulo-site{
+        color: #0d617a; 
+        font-size: 200px;}
+    }
+.inline{
+    display: inline;
+    background-color: #048300;
+    padding: 5px;
+}
+
+.block{
+    display: block;
+
+}
+
+.inline-block{
+    display:inline-block;
+    width: 200px;
+    height: 5px;
+    background-color: #0d617a;
+}
+       .imagem-flutuante {
+      float: left; /* A imagem flutua para a esquerda, e o texto a contorna */
+      margin-right: 30px; /* Adiciona um espaço entre a imagem e o texto */
+    }
+
+span{
+    color: #ceae1f;
+}
+
+/*Atribuir HTML que adicione um identificador Único na tag. 
+Esse dentificar pode ser utilizado no CSS para selecionar o elemento:#nomeid*/
+#paragrafobicicletetas{
+    color: #048300;
+}
+
+.titulo-site{
+        color: #0d617a; 
+        font-size: 30px;
+}
+
+.box{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    background-color: rgb(161, 247, 179);
+    border: 5px dashed rgb(110, 231, 99);
+    margin: 10px 300px;
+    right: 10px;
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(161, 237, 247);
+    border: 5px dashed rgb(20, 245, 170);
+    margin: 30px;
+    margin: 60px;
+    padding: 82px;
+}   
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(224, 247, 161);
+    border: 5px dashed rgba(255, 163, 101, 0.705);
+    margin: 30px;
+    margin: 20px;
+    padding: 82px;
+}   
+.box5{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(9, 207, 2);
+    border: 5px dashed rgb(255, 163, 101);
+    image-resolution: 30px;
+    margin: 40px;
+    padding: 30px;
+}   
+.box4{
+    width: 270px;
+    height: 390px;
+    background-color: rgb(240, 187, 14);
+    border: 5px dashed rgba(153, 160, 59, 0.63);
+    image-resolution: 30px;
+    margin: 20px;
+    padding: 60px;
+}
+
+.filhote{
+    color: #048300;
+    background-color: #048300;
+    width: 500px;
+    height: 10;
+    position: absolute;
+    top: 1290px;
+}
